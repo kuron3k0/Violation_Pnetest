@@ -20,7 +20,7 @@
 * 在进行有可能导致管理员察觉的敏感操作时（如登录远程桌面等），根据目标所在地区，选择对应IP登录。（有些会提示异地登录提醒） ｜ID: evilAdan0s 提供
 * 时区选择非大陆，作业时间贴合时区   ID：hmoytx提供
 * 使用自己塔建的DNSlog，目前网上dnslog站点已被监控，只要请求了域名就会被监测到。 ｜ID: mx7krshell
-* burp挂代理时关掉`http://burp`页面（proxy->options）
+* burp挂代理时关掉`http://burp`页面（proxy->options）和`http://burpsuite`（从代理层设置）
 
 ## 安全意识篇
 
