@@ -22,9 +22,9 @@
 * 使用自己塔建的DNSlog，目前网上dnslog站点已被监控，只要请求了域名就会被监测到。 ｜ID: mx7krshell
 * 在内网渗透时，关掉BurpSuite被动扫描。否则自己无意识访问网站会发起Fastjson、Shiro探测导致被安全设备检测到。 ｜ID：mx7krshell
 * burp挂代理时关掉`http://burp`页面（proxy->options）和`http://burpsuite`（从代理层设置），以及代理报错信息
-[](./burpinfo.png)
+![](./burpinfo.png)
 * burp选择自定义的tls信息，防止ja3指纹识别
-[](./burptls.png)
+![](./burptls.png)
 
 ## 安全意识篇
 
